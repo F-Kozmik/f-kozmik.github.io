@@ -82,8 +82,8 @@ section {
 }
 
 .bg-gradient {
-  background: -webkit-gradient(linear, left top, left bottom, from(#4fbfa8), to(#74cdba)) !important;
-  background: linear-gradient(to bottom, #4fbfa8, #74cdba) !important;
+  background: -webkit-gradient(linear, left top, left bottom, from(#3085a3), to(#31708f)) !important;
+  background: linear-gradient(to bottom, #3085a3, #31708f) !important;
   color: #fff;
 }
 
@@ -163,12 +163,12 @@ nav.navbar a.nav-link {
 
 nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   color: #333;
-  border-top-color: #4fbfa8;
+  border-top-color: #31708f;
 }
 
 @media (max-width: 1199.98px) {
   nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
-    color: #4fbfa8;
+    color: #31708f;
   }
 }
 
@@ -223,23 +223,23 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 }
 
 .about-section .progress .progress-bar {
-  background: #4fbfa8;
+  background: #31708f;
 }
 
 .about-section .progress .progress-bar-skill1 {
-  background: #9adacd;
+  background: #77B2CF;
 }
 
 .about-section .progress .progress-bar-skill2 {
-  background: #87d3c4;
+  background: #64A8C9;
 }
 
 .about-section .progress .progress-bar-skill3 {
-  background: #74cdba;
+  background: #4496BE;
 }
 
 .about-section .progress .progress-bar-skill4 {
-  background: #62c6b1;
+  background: #3C89AF;
 }
 
 /*
@@ -255,7 +255,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 
 .services-section .icon {
   font-size: 3.5rem;
-  text-shadow: 5px 5px 0 #3aa18c;
+  text-shadow: 5px 5px 0 #325179;
 }
 
 .services-section p.description {
@@ -415,8 +415,8 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   list-style-type: none;
   font-family: "Roboto Slab", serif;
   margin-bottom: 30px;
-  border-top: solid 1px #4fbfa8;
-  border-bottom: solid 1px #4fbfa8;
+  border-top: solid 1px #31708f;
+  border-bottom: solid 1px #31708f;
   margin: 0 10px 20px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -428,7 +428,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   background: none;
   border: none;
   cursor: pointer;
-  color: #4fbfa8;
+  color: #31708f;
   outline: none;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -441,7 +441,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 #filter li.active a, #filter li:hover a {
   color: #fff;
   text-decoration: none;
-  background: #4fbfa8;
+  background: #31708f;
 }
 
 .reference {
